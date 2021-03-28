@@ -45,6 +45,8 @@
     "lerna:version": "lerna version"
   },
   "devDependencies": {
+    "@commitlint/cli": "^12.0.1",
+    "@commitlint/config-conventional": "^12.0.1",
     "lerna": "^4.0.0"
   }
 }

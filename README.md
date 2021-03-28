@@ -25,8 +25,9 @@ Check the _`README`_ of each package in the [`packages`][packages-link] director
 
 ## Available Configurations
 
-| Tool | Package | Version |
-| ---- | ------- | ------- |
+| Tool                          | Package                                                      | Version                                                             |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| [CommitLint][commitlint-link] | [@demartini/commitlint-config](./packages/commitlint-config) | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm] |
 
 ## Badge
 
@@ -59,3 +60,7 @@ Distributed under the MIT License. See [LICENSE][license-link] for more informat
 [pull-request-link]: https://github.com/demartini/base-configs/pulls
 [style-badge]: https://img.shields.io/badge/code_style-demartini%E2%80%99s-663399.svg?labelColor=292a44&style=flat-square
 [style-link]: https://github.com/demartini/base-configs
+
+[commitlint-badge]: https://img.shields.io/npm/v/@demartini/commitlint-config?style=flat-square&labelColor=292a44&color=663399
+[commitlint-link]: https://github.com/conventional-changelog/commitlint
+[commitlint-npm]: https://www.npmjs.com/package/@demartini/commitlint-config
