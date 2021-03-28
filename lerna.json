@@ -1,0 +1,18 @@
+{
+  "version": "independent",
+  "command": {
+    "version": {
+      "conventionalCommits": true,
+      "createRelease": "github",
+      "ignoreChanges": ["**/*.md"],
+      "message": "chore(release): publish",
+      "yes": true
+    },
+    "publish": {
+      "registry": "https://registry.npmjs.org",
+      "yes": true
+    }
+  },
+  "npmClient": "yarn",
+  "packages": ["packages/*"]
+}

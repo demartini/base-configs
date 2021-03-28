@@ -1,0 +1,50 @@
+{
+  "private": true,
+  "name": "@demartini/base-configs",
+  "version": "1.0.0",
+  "description": "A collection of base configs for code quality and linting tools.",
+  "author": {
+    "name": "Iolar Demartini Junior",
+    "email": "iolardemartini@gmail.com",
+    "url": "https://demartini.dev"
+  },
+  "bugs": {
+    "url": "https://github.com/demartini/base-configs/issues"
+  },
+  "contributors": [
+    {
+      "name": "Base Configs Contributors",
+      "url": "https://github.com/demartini/base-configs/graphs/contributors"
+    }
+  ],
+  "engines": {
+    "node": ">= 12",
+    "npm": ">= 6",
+    "yarn": ">=1.20.0"
+  },
+  "homepage": "https://github.com/demartini/base-configs#readme",
+  "keywords": [
+    "commitlint",
+    "config",
+    "eslint",
+    "lint",
+    "markdownlint",
+    "prettier",
+    "semantic-release",
+    "stylelint"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demartini/base-configs.git"
+  },
+  "scripts": {
+    "lerna:bootstrap:ci": "lerna bootstrap -- --frozen-lockfile --ignore-engines",
+    "lerna:bootstrap": "lerna bootstrap",
+    "lerna:publish": "lerna publish from-package",
+    "lerna:version": "lerna version"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
