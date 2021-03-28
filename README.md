@@ -25,10 +25,11 @@ Check the _`README`_ of each package in the [`packages`][packages-link] director
 
 ## Available Configurations
 
-| Tool                          | Package                                                      | Version                                                             |
-| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- |
-| [CommitLint][commitlint-link] | [@demartini/commitlint-config](./packages/commitlint-config) | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm] |
+| Tool                              | Package                                                          | Version                                                                   |
+| --------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [CommitLint][commitlint-link]     | [@demartini/commitlint-config](./packages/commitlint-config)     | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm]       |
 | [MarkdownLint][markdownlint-link] | [@demartini/markdownlint-config](./packages/markdownlint-config) | [![@demartini/markdownlint-config][markdownlint-badge]][markdownlint-npm] |
+| [Prettier][prettier-link]         | [@demartini/prettier-config](./packages/prettier-config)         | [![@demartini/prettier-config][prettier-badge]][prettier-npm]             |
 
 ## Badge
 
@@ -69,3 +70,7 @@ Distributed under the MIT License. See [LICENSE][license-link] for more informat
 [markdownlint-badge]: https://img.shields.io/npm/v/@demartini/markdownlint-config?style=flat-square&labelColor=292a44&color=663399
 [markdownlint-link]: https://github.com/DavidAnson/markdownlint
 [markdownlint-npm]: https://www.npmjs.com/package/@demartini/markdownlint-config
+
+[prettier-badge]: https://img.shields.io/npm/v/@demartini/prettier-config?style=flat-square&labelColor=292a44&color=663399
+[prettier-link]: https://github.com/prettier/prettier
+[prettier-npm]: https://www.npmjs.com/package/@demartini/prettier-config
