@@ -1,0 +1,44 @@
+{
+  "name": "@demartini/markdownlint-config",
+  "version": "0.0.0",
+  "description": "Demartini’s shareable configuration for markdownlint.",
+  "author": {
+    "name": "Iolar Demartini Junior",
+    "email": "iolardemartini@gmail.com",
+    "url": "https://demartini.dev"
+  },
+  "bugs": {
+    "url": "https://github.com/demartini/base-configs/issues"
+  },
+  "engines": {
+    "node": ">= 12",
+    "npm": ">= 6",
+    "yarn": ">=1.20.0"
+  },
+  "files": [
+    "index.json",
+    "scripts/*"
+  ],
+  "homepage": "https://github.com/demartini/base-configs/tree/main/packages/markdownlint-config#readme",
+  "keywords": [
+    "markdownlint-config",
+    "markdownlint",
+    "config",
+    "demartini"
+  ],
+  "license": "MIT",
+  "main": "index.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demartini/base-configs.git"
+  },
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "dependencies": {
+    "markdownlint-cli": "^0.27.1"
+  }
+}

@@ -28,6 +28,7 @@ Check the _`README`_ of each package in the [`packages`][packages-link] director
 | Tool                          | Package                                                      | Version                                                             |
 | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- |
 | [CommitLint][commitlint-link] | [@demartini/commitlint-config](./packages/commitlint-config) | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm] |
+| [MarkdownLint][markdownlint-link] | [@demartini/markdownlint-config](./packages/markdownlint-config) | [![@demartini/markdownlint-config][markdownlint-badge]][markdownlint-npm] |
 
 ## Badge
 
@@ -64,3 +65,7 @@ Distributed under the MIT License. See [LICENSE][license-link] for more informat
 [commitlint-badge]: https://img.shields.io/npm/v/@demartini/commitlint-config?style=flat-square&labelColor=292a44&color=663399
 [commitlint-link]: https://github.com/conventional-changelog/commitlint
 [commitlint-npm]: https://www.npmjs.com/package/@demartini/commitlint-config
+
+[markdownlint-badge]: https://img.shields.io/npm/v/@demartini/markdownlint-config?style=flat-square&labelColor=292a44&color=663399
+[markdownlint-link]: https://github.com/DavidAnson/markdownlint
+[markdownlint-npm]: https://www.npmjs.com/package/@demartini/markdownlint-config

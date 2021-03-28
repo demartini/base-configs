@@ -42,12 +42,15 @@
     "lerna:bootstrap:ci": "lerna bootstrap -- --frozen-lockfile --ignore-engines",
     "lerna:bootstrap": "lerna bootstrap",
     "lerna:publish": "lerna publish from-package",
-    "lerna:version": "lerna version"
+    "lerna:version": "lerna version",
+    "markdownlint:fix": "markdownlint '**/*.md' --fix",
+    "markdownlint:report": "markdownlint '**/*.md'"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
     "lerna": "^4.0.0",
+    "markdownlint-cli": "^0.27.1",
     "simple-git-hooks": "^2.2.0"
   }
 }
