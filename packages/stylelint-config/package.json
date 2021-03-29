@@ -1,0 +1,49 @@
+{
+  "name": "@demartini/stylelint-config",
+  "version": "0.0.0",
+  "description": "Demartini’s shareable configuration for stylelint.",
+  "author": {
+    "name": "Iolar Demartini Junior",
+    "email": "iolardemartini@gmail.com",
+    "url": "https://demartini.dev"
+  },
+  "bugs": {
+    "url": "https://github.com/demartini/base-configs/issues"
+  },
+  "engines": {
+    "node": ">= 12",
+    "npm": ">= 6",
+    "yarn": ">=1.20.0"
+  },
+  "files": [
+    "css/index.js",
+    "scripts/*",
+    "scss/index.js"
+  ],
+  "homepage": "https://github.com/demartini/base-configs/tree/main/packages/stylelint-config#readme",
+  "keywords": [
+    "stylelint-config",
+    "stylelint",
+    "config",
+    "demartini"
+  ],
+  "license": "MIT",
+  "main": "css/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demartini/base-configs.git"
+  },
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "dependencies": {
+    "stylelint": "^13.12.0",
+    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.19.0"
+  }
+}
