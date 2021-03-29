@@ -1,6 +1,6 @@
 {
   "name": "@demartini/markdownlint-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Demartini’s shareable configuration for markdownlint.",
   "author": {
     "name": "Iolar Demartini Junior",
