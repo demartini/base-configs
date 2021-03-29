@@ -27,6 +27,7 @@ Check the _`README`_ of each package in the [`packages`][packages-link] director
 
 | Tool                              | Package                                                          | Version                                                                   |
 | --------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [CommitLint][browserslist-link]   | [@demartini/browserslist-config](./packages/browserslist-config) | [![@demartini/browserslist-config][browserslist-badge]][browserslist-npm] |
 | [CommitLint][commitlint-link]     | [@demartini/commitlint-config](./packages/commitlint-config)     | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm]       |
 | [MarkdownLint][markdownlint-link] | [@demartini/markdownlint-config](./packages/markdownlint-config) | [![@demartini/markdownlint-config][markdownlint-badge]][markdownlint-npm] |
 | [Prettier][prettier-link]         | [@demartini/prettier-config](./packages/prettier-config)         | [![@demartini/prettier-config][prettier-badge]][prettier-npm]             |
@@ -63,6 +64,10 @@ Distributed under the MIT License. See [LICENSE][license-link] for more informat
 [pull-request-link]: https://github.com/demartini/base-configs/pulls
 [style-badge]: https://img.shields.io/badge/code_style-demartini%E2%80%99s-663399.svg?labelColor=292a44&style=flat-square
 [style-link]: https://github.com/demartini/base-configs
+
+[browserslist-badge]: https://img.shields.io/npm/v/@demartini/browserslist-config?style=flat-square&labelColor=292a44&color=663399
+[browserslist-link]: https://github.com/browserslist/browserslist
+[browserslist-npm]: https://www.npmjs.com/package/@demartini/browserslist-config
 
 [commitlint-badge]: https://img.shields.io/npm/v/@demartini/commitlint-config?style=flat-square&labelColor=292a44&color=663399
 [commitlint-link]: https://github.com/conventional-changelog/commitlint
