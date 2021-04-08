@@ -27,7 +27,7 @@ Check the _`README`_ of each package in the [`packages`][packages-link] director
 
 | Tool                              | Package                                                          | Version                                                                   |
 | --------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [CommitLint][browserslist-link]   | [@demartini/browserslist-config](./packages/browserslist-config) | [![@demartini/browserslist-config][browserslist-badge]][browserslist-npm] |
+| [Browserslist][browserslist-link] | [@demartini/browserslist-config](./packages/browserslist-config) | [![@demartini/browserslist-config][browserslist-badge]][browserslist-npm] |
 | [CommitLint][commitlint-link]     | [@demartini/commitlint-config](./packages/commitlint-config)     | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm]       |
 | [ESLint][eslint-link]             | [@demartini/eslint-config](./packages/eslint-config)             | [![@demartini/eslint-config][eslint-badge]][eslint-npm]                   |
 | [MarkdownLint][markdownlint-link] | [@demartini/markdownlint-config](./packages/markdownlint-config) | [![@demartini/markdownlint-config][markdownlint-badge]][markdownlint-npm] |
