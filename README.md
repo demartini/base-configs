@@ -29,6 +29,7 @@ Check the _`README`_ of each package in the [`packages`][packages-link] director
 | --------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [CommitLint][browserslist-link]   | [@demartini/browserslist-config](./packages/browserslist-config) | [![@demartini/browserslist-config][browserslist-badge]][browserslist-npm] |
 | [CommitLint][commitlint-link]     | [@demartini/commitlint-config](./packages/commitlint-config)     | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm]       |
+| [ESLint][eslint-link]             | [@demartini/eslint-config](./packages/eslint-config)             | [![@demartini/eslint-config][eslint-badge]][eslint-npm]                   |
 | [MarkdownLint][markdownlint-link] | [@demartini/markdownlint-config](./packages/markdownlint-config) | [![@demartini/markdownlint-config][markdownlint-badge]][markdownlint-npm] |
 | [Prettier][prettier-link]         | [@demartini/prettier-config](./packages/prettier-config)         | [![@demartini/prettier-config][prettier-badge]][prettier-npm]             |
 | [stylelint][stylelint-link]       | [@demartini/stylelint-config](./packages/stylelint-config)       | [![@demartini/stylelint-config][stylelint-badge]][stylelint-npm]          |
@@ -72,6 +73,10 @@ Distributed under the MIT License. See [LICENSE][license-link] for more informat
 [commitlint-badge]: https://img.shields.io/npm/v/@demartini/commitlint-config?style=flat-square&labelColor=292a44&color=663399
 [commitlint-link]: https://github.com/conventional-changelog/commitlint
 [commitlint-npm]: https://www.npmjs.com/package/@demartini/commitlint-config
+
+[eslint-badge]: https://img.shields.io/npm/v/@demartini/eslint-config?style=flat-square&labelColor=292a44&color=663399
+[eslint-link]: https://github.com/eslint/eslint
+[eslint-npm]: https://www.npmjs.com/package/@demartini/eslint-config
 
 [markdownlint-badge]: https://img.shields.io/npm/v/@demartini/markdownlint-config?style=flat-square&labelColor=292a44&color=663399
 [markdownlint-link]: https://github.com/DavidAnson/markdownlint
