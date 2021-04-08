@@ -5,8 +5,8 @@ const path = require('path')
 
 const filePath = path.join(process.env.INIT_CWD, '.prettierrc.json')
 
-const fileConfigObj = '@demartini/prettier-config'
+const fileConfigObject = '@demartini/prettier-config'
 
 if (!fs.existsSync(filePath)) {
-  fs.writeFileSync(filePath, JSON.stringify(fileConfigObj, null, 2))
+  fs.writeFileSync(filePath, JSON.stringify(fileConfigObject, undefined, 2))
 }

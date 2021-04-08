@@ -1,3 +1,5 @@
+/* eslint-disable sonarjs/no-duplicate-string */
+/* eslint-disable unicorn/no-null */
 'use strict'
 
 module.exports = {
