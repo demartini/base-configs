@@ -25,14 +25,15 @@ Check the _`README`_ of each package in the [`packages`][packages-link] director
 
 ## Available Configurations
 
-| Tool                              | Package                                                          | Version                                                                   |
-| --------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Browserslist][browserslist-link] | [@demartini/browserslist-config](./packages/browserslist-config) | [![@demartini/browserslist-config][browserslist-badge]][browserslist-npm] |
-| [CommitLint][commitlint-link]     | [@demartini/commitlint-config](./packages/commitlint-config)     | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm]       |
-| [ESLint][eslint-link]             | [@demartini/eslint-config](./packages/eslint-config)             | [![@demartini/eslint-config][eslint-badge]][eslint-npm]                   |
-| [MarkdownLint][markdownlint-link] | [@demartini/markdownlint-config](./packages/markdownlint-config) | [![@demartini/markdownlint-config][markdownlint-badge]][markdownlint-npm] |
-| [Prettier][prettier-link]         | [@demartini/prettier-config](./packages/prettier-config)         | [![@demartini/prettier-config][prettier-badge]][prettier-npm]             |
-| [stylelint][stylelint-link]       | [@demartini/stylelint-config](./packages/stylelint-config)       | [![@demartini/stylelint-config][stylelint-badge]][stylelint-npm]          |
+| Tool                                      | Package                                                                  | Version                                                                               |
+| ----------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| [Browserslist][browserslist-link]         | [@demartini/browserslist-config](./packages/browserslist-config)         | [![@demartini/browserslist-config][browserslist-badge]][browserslist-npm]             |
+| [CommitLint][commitlint-link]             | [@demartini/commitlint-config](./packages/commitlint-config)             | [![@demartini/commitlint-config][commitlint-badge]][commitlint-npm]                   |
+| [ESLint][eslint-link]                     | [@demartini/eslint-config](./packages/eslint-config)                     | [![@demartini/eslint-config][eslint-badge]][eslint-npm]                               |
+| [MarkdownLint][markdownlint-link]         | [@demartini/markdownlint-config](./packages/markdownlint-config)         | [![@demartini/markdownlint-config][markdownlint-badge]][markdownlint-npm]             |
+| [Prettier][prettier-link]                 | [@demartini/prettier-config](./packages/prettier-config)                 | [![@demartini/prettier-config][prettier-badge]][prettier-npm]                         |
+| [semantic-release][semantic-release-link] | [@demartini/semantic-release-config](./packages/semantic-release-config) | [![@demartini/semantic-release-config][semantic-release-badge]][semantic-release-npm] |
+| [stylelint][stylelint-link]               | [@demartini/stylelint-config](./packages/stylelint-config)               | [![@demartini/stylelint-config][stylelint-badge]][stylelint-npm]                      |
 
 ## Badge
 
@@ -85,6 +86,10 @@ Distributed under the MIT License. See [LICENSE][license-link] for more informat
 [prettier-badge]: https://img.shields.io/npm/v/@demartini/prettier-config?style=flat-square&labelColor=292a44&color=663399
 [prettier-link]: https://github.com/prettier/prettier
 [prettier-npm]: https://www.npmjs.com/package/@demartini/prettier-config
+
+[semantic-release-badge]: https://img.shields.io/npm/v/@demartini/semantic-release-config?style=flat-square&labelColor=292a44&color=663399
+[semantic-release-link]: https://github.com/semantic-release/semantic-release
+[semantic-release-npm]: https://www.npmjs.com/package/@demartini/semantic-release-config
 
 [stylelint-badge]: https://img.shields.io/npm/v/@demartini/stylelint-config?style=flat-square&labelColor=292a44&color=663399
 [stylelint-link]: https://github.com/stylelint/stylelint
