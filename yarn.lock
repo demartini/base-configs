@@ -5043,9 +5043,9 @@ signal-exit@^3.0.0, signal-exit@^3.0.2, signal-exit@^3.0.3:
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
 
 simple-git-hooks@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/simple-git-hooks/-/simple-git-hooks-2.3.1.tgz#cd400893fe7683d8cb07c357d20b3a2a9d75dd65"
-  integrity sha512-t1ZP5y6yGZmWjceOmTEr37g+TTot96DaAYYCnWOLu55squ/z60CiDV3Gdz2kEzmynEzgxyg4fCeJnsQWZdL4yg==
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/simple-git-hooks/-/simple-git-hooks-2.6.1.tgz#0843d7ad7d3be3bb877b86f218d0abea87611584"
+  integrity sha512-nvqaNfgvcjN3cGSYJSdjwB+tP8YKRCyvuUvQ24luIjIpGhUCPpZDTJ+p+hcJiwc0lZlTCl0NayfBVDoIMG7Jpg==
 
 slash@^3.0.0:
   version "3.0.0"
