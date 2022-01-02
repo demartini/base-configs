@@ -51,21 +51,21 @@
     "prettier:report": "prettier '**/*.{js,tsx,ts,json}' --check"
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.1.1",
-    "@commitlint/config-conventional": "^12.1.1",
-    "eslint": "^7.24.0",
-    "eslint-config-prettier": "^8.2.0",
-    "eslint-config-standard": "^16.0.2",
-    "eslint-formatter-pretty": "^4.0.0",
-    "eslint-plugin-import": "^2.22.1",
+    "@commitlint/cli": "^16.0.1",
+    "@commitlint/config-conventional": "^16.0.0",
+    "eslint": "^8.6.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-formatter-pretty": "^4.1.0",
+    "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "eslint-plugin-promise": "^5.1.0",
-    "eslint-plugin-sonarjs": "^0.6.0",
-    "eslint-plugin-unicorn": "^30.0.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-sonarjs": "^0.11.0",
+    "eslint-plugin-unicorn": "^40.0.0",
     "lerna": "^4.0.0",
-    "markdownlint-cli": "^0.27.1",
-    "prettier": "^2.2.1",
-    "simple-git-hooks": "^2.3.1"
+    "markdownlint-cli": "^0.30.0",
+    "prettier": "^2.5.1",
+    "simple-git-hooks": "^2.7.0"
   }
 }
