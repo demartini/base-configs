@@ -39,6 +39,8 @@
     "url": "https://github.com/demartini/base-configs.git"
   },
   "scripts": {
+    "deps:dedupe": "lernaupdate --dedupe",
+    "deps:update": "lernaupdate",
     "eslint:fix": "eslint --format=pretty '**/*.{js,tsx,ts}' --fix",
     "eslint:report": "eslint --format=pretty '**/*.{js,tsx,ts}'",
     "lerna:bootstrap:ci": "lerna bootstrap -- --frozen-lockfile --ignore-engines",
@@ -64,6 +66,7 @@
     "eslint-plugin-sonarjs": "^0.11.0",
     "eslint-plugin-unicorn": "^40.0.0",
     "lerna": "^4.0.0",
+    "lerna-update-wizard": "^1.1.0",
     "markdownlint-cli": "^0.30.0",
     "prettier": "^2.5.1",
     "simple-git-hooks": "^2.7.0"
