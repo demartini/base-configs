@@ -39,18 +39,18 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "peerDependencies": {
-    "@demartini/prettier-config": "^0.1.1"
+    "@demartini/prettier-config": "0.1.1"
   },
   "dependencies": {
-    "eslint": "^7.24.0",
-    "eslint-config-prettier": "^8.2.0",
-    "eslint-config-standard": "^16.0.2",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jest": "^24.3.5",
-    "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "eslint-plugin-promise": "^5.1.0",
-    "eslint-plugin-sonarjs": "^0.6.0",
-    "eslint-plugin-unicorn": "^30.0.0"
+    "eslint": "8.6.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-config-standard": "16.0.3",
+    "eslint-plugin-import": "2.25.3",
+    "eslint-plugin-jest": "25.3.4",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-promise": "6.0.0",
+    "eslint-plugin-sonarjs": "0.11.0",
+    "eslint-plugin-unicorn": "40.0.0"
   }
 }
