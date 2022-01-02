@@ -1,6 +1,6 @@
 {
   "name": "@demartini/prettier-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Demartini’s shareable configuration for Prettier.",
   "author": {
     "name": "Iolar Demartini Junior",
