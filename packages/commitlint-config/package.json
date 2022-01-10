@@ -39,7 +39,7 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "dependencies": {
-    "@commitlint/cli": "16.0.1",
+    "@commitlint/cli": "16.0.2",
     "@commitlint/config-conventional": "16.0.0"
   }
 }
