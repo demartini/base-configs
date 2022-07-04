@@ -42,7 +42,7 @@
     "@demartini/prettier-config": "0.1.1"
   },
   "dependencies": {
-    "eslint": "8.6.0",
+    "eslint": "8.19.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-config-standard": "16.0.3",
     "eslint-plugin-import": "2.25.3",
