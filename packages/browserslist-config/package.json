@@ -39,6 +39,6 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "dependencies": {
-    "browserslist": "4.19.1"
+    "browserslist": "4.21.4"
   }
 }
