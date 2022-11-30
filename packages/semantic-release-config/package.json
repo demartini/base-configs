@@ -1,6 +1,6 @@
 {
   "name": "@demartini/semantic-release-config",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Demartini’s shareable configuration for semantic-release.",
   "author": {
     "name": "Iolar Demartini Junior",
