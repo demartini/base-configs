@@ -38,9 +38,6 @@
   "scripts": {
     "postinstall": "node scripts/postinstall.js"
   },
-  "peerDependencies": {
-    "@demartini/prettier-config": "0.1.2"
-  },
   "dependencies": {
     "eslint": "8.28.0",
     "eslint-config-prettier": "8.5.0",
