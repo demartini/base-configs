@@ -1,6 +1,6 @@
 {
   "name": "@demartini/stylelint-config",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Demartini’s shareable configuration for stylelint.",
   "author": {
     "name": "Iolar Demartini Junior",
