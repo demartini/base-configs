@@ -1,6 +1,6 @@
 {
   "name": "@demartini/eslint-config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Demartini’s shareable configuration for ESLint.",
   "author": {
     "name": "Iolar Demartini Junior",
