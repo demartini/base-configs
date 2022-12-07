@@ -40,7 +40,7 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "dependencies": {
-    "stylelint": "14.15.0",
+    "stylelint": "14.16.0",
     "stylelint-config-recommended-scss": "8.0.0",
     "stylelint-config-standard": "29.0.0",
     "stylelint-order": "5.0.0",
