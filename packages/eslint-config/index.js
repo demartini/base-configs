@@ -8,7 +8,6 @@ module.exports = {
     node: true
   },
   extends: [
-    'plugin:unicorn/recommended',
     'plugin:promise/recommended',
     'plugin:sonarjs/recommended',
     'standard',
