@@ -39,6 +39,6 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "dependencies": {
-    "prettier": "2.8.0"
+    "prettier": "2.8.3"
   }
 }
