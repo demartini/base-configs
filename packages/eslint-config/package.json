@@ -39,7 +39,7 @@
     "postinstall": "node scripts/postinstall.js"
   },
   "dependencies": {
-    "eslint": "8.29.0",
+    "eslint": "8.33.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-config-standard": "17.0.0",
     "eslint-plugin-import": "2.26.0",
